@@ -1,7 +1,7 @@
 # Big Data 603 - Understanding Big Data
 
 This repository contains information about 
-1.Big Data concepts 
+**1**.Big Data concepts 
 2. The 6 'V's of Big Data 
 3. Phases of Big Data analysis
 4. Challenges in Big Data analysis.
