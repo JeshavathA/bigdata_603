@@ -2,8 +2,11 @@
 
 This repository contains information about    
 1.Big Data concepts.    
-2. The 6 'V's of Big Data.    
-3. Phases of Big Data analysis.      
+
+2. The 6 'V's of Big Data.
+    
+3. Phases of Big Data analysis.
+        
 4. Challenges in Big Data analysis.
 
 ## Big Data
