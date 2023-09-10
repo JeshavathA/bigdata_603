@@ -64,3 +64,11 @@ Big Data refers to extremely large and complex datasets that traditional data pr
 6. **Security**: Safeguarding data from cyber threats and breaches.
 
 7. **Ethical Concerns**: Addressing ethical issues related to data collection and usage.
+
+## References
+
+1. Parikh, R. B., & Gdowsk, A. (2019). Using Big Data and Predictive Analytics to Determine Patient Risk in Oncology. In American Society of Clinical Oncology Educational Book 39 (pp. 123-136). American Society of Clinical Oncology. [Link](https://pubmed.ncbi.nlm.nih.gov/31099672)
+
+2. Norman, R., Bolin, J., Powell, E. T., Amin, S., & Nacker, J.. (2018). Using Big Data Analytics to Create a Predictive Model for Joint Strike Fighter. In 2018 IEEE International Conference on Big Data (Big Data). [Link](https://ieeexplore.ieee.org/document/8622388)
+
+3. Ongsulee, P., Chotchaung, V., Bamrungsi, E., & Rodcheewit, T. (2018). Big Data, Predictive Analytics, and Machine Learning. In 2018 Sixteenth International Conference on ICT and Knowledge Engineering. [Link](https://ieeexplore.ieee.org/abstract/document/8612393)
