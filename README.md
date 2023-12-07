@@ -1,74 +1,111 @@
-# Big Data 603 - Understanding Big Data
+# Project Presentation: Country-wise Big Data Analysis of GHG Emissions
 
-This repository contains information about    
-1.Big Data concepts.    
+## Overview
 
-2. The 6 'V's of Big Data.
-    
-3. Phases of Big Data analysis.
-        
-4. Challenges in Big Data analysis.
+The presentation aims to provide a comprehensive overview of the project's key aspects, from objectives to insights gained through big data analysis.
 
-## Big Data
+---
 
-Big Data refers to extremely large and complex datasets that traditional data processing tools and methods cannot handle effectively. It's characterized by the three Vs: Volume, Velocity, and Variety.
+## Slide 1: Project Title and Introduction
 
-### Example:
-- **Social Media Data**: Platforms like Facebook , What's app and Twitter generate vast amounts of data every second, including text, images, videos, and user interactions.
+### Title: Unveiling the Earth's Symphony
 
-### Types of Big Data:
-1. **Structured Data**: Organized and easy to query, often stored in databases (e.g., SQL).
-2. **Unstructured Data**: Unpredictable and challenging to analyse without preprocessing (e.g., text, images, videos).
-3. **Semi-structured Data**: Contains some structure but does not fit neatly into databases (e.g., JSON, XML).
+#### Introduction:
+The project delves into country-wise big data analysis of greenhouse gas (GHG) emissions across key sectors. This analysis is crucial for understanding and mitigating global environmental impacts.
 
-## The 6 'V's of Big Data
+---
 
-1. **Volume**: Refers to the huge volume of data that is produced or gathered. Terabytes, petabytes, or even exabytes of data are involved in big data.
+## Slide 2: Project Objectives
 
-2. **Velocity**: Describes the speed at which data is generated, collected, and processed. Real time data streaming is a common example.
+### Objectives:
 
-3. **Variety**: Represents the diversity of data types and sources, including text, images, videos, structured databases, and more.
+1. **Identify Contributors:**
+   - Pinpoint major contributors to GHG emissions globally.
 
-4. **Veracity**: Discusses the dependability and quality of data. Incomplete or inaccurate data can produce false conclusions.
+2. **Trend Analysis:**
+   - Analyze trends in GHG production from 2015 to 2022.
 
-5. **Value**: The ultimate goal of Big Data analysis is to extract valuable insights and make data-driven decisions.
+3. **Inform Policy:**
+   - Provide insights to inform environmental policy-making.
 
-6. **Variability**: Indicates the inconsistency in data flows, which can be periodic, random, or unpredictable.
+---
 
-## Phases of Big Data Analysis
+## Slide 3: Data Sources and Collection
 
-1. **Data Collection**: Gathering data from various sources, including sensors, social media, databases, and other platforms.
+### Data Sources:
 
-2. **Data Storage**: Storing data efficiently, often using distributed systems like Hadoop and NoSQL databases.
+- GHG emissions data from reputable environmental agencies.
+- Additional data from [Specify Other Sources].
 
-3. **Data Processing**: Cleaning, transforming, and preparing data for analysis. This may involve data wrangling and ETL (Extract, Transform, Load) processes.
+### Data Collection:
 
-4. **Data Analysis**: Applying statistical, machine learning, or AI techniques to extract meaningful insights from the data.
+- Utilized APIs and web scraping for real-time data.
+- Faced challenges in cleaning and harmonizing diverse datasets.
 
-5. **Data Visualization**: Presenting results in a visually understandable format, such as charts, graphs, and dashboards etc...
+---
 
-6. **Data Interpretation**: Interpreting the results and using them to make informed decisions.
+## Slide 4: Tools and Technologies
 
-## Challenges in Big Data Analysis
+### Tools Used:
 
-1. **Data Privacy**: Preserving sensitive material in massive databases and following to laws like the GDPR.
+1. **Hadoop:**
+   - Distributed storage and processing for large datasets.
 
-2. **Data Quality**: Ensuring data accuracy, consistency, and completeness.
+2. **Spark:**
+   - In-memory processing for faster analytics.
 
-3. **Scalability**: Managing and processing vast amounts of data efficiently.
+3. **Tableau:**
+   - Data visualization for comprehensive reports.
 
-4. **Complexity**: Dealing with the variety of data types and sources.
+### Data Stack Diagram:
 
-5. **Cost**: Big Data infrastructure and analysis tools can be expensive.
+![Data Stack Diagram](link-to-diagram)
 
-6. **Security**: Safeguarding data from cyber threats and breaches.
+---
 
-7. **Ethical Concerns**: Addressing ethical issues related to data collection and usage.
+## Slide 5: Reports, Insights, and Recommendations
 
-## References
+### Reports Generated:
 
-1. Parikh, R. B., & Gdowsk, A. (2019). Using Big Data and Predictive Analytics to Determine Patient Risk in Oncology. In American Society of Clinical Oncology Educational Book 39 (pp. 123-136). American Society of Clinical Oncology. [Link](https://pubmed.ncbi.nlm.nih.gov/31099672)
+- Country-wise GHG emissions reports.
+- Sector-specific insights.
 
-2. Norman, R., Bolin, J., Powell, E. T., Amin, S., & Nacker, J.. (2018). Using Big Data Analytics to Create a Predictive Model for Joint Strike Fighter. In 2018 IEEE International Conference on Big Data (Big Data). [Link](https://ieeexplore.ieee.org/document/8622388)
+### Insights:
 
-3. Ongsulee, P., Chotchaung, V., Bamrungsi, E., & Rodcheewit, T. (2018). Big Data, Predictive Analytics, and Machine Learning. In 2018 Sixteenth International Conference on ICT and Knowledge Engineering. [Link](https://ieeexplore.ieee.org/abstract/document/8612393)
+- [Mention Key Insights].
+- Surprises: [Any Surprising Findings].
+
+### Recommendations:
+
+- Suggested strategies for better ROI based on insights.
+
+---
+
+## Slide 6: Future Opportunities and/or Challenges
+
+### Opportunities:
+
+- Explore emerging technologies for more accurate predictions.
+- Collaborate with [Specify Potential Partners].
+
+### Challenges:
+
+- Addressing data privacy concerns.
+- Adapting to evolving data regulations.
+
+---
+
+## Slide 7: References
+
+### References:
+
+- [List of Data Sources].
+- [List of Research Papers].
+- [Any other relevant references].
+
+---
+
+## Conclusion
+
+In conclusion, our project not only uncovers the intricate patterns of GHG emissions but also proposes actionable insights for a sustainable future.
+
